@@ -17,4 +17,4 @@
       "1": "{\"model\":\"Ford Focus\",\"type\":\"Kombi\",\"year\":\"2004\",\"color\":\"red\",\"cost\":1750,\"isFullyDamaged\":true,\"clientFirstName\":\"Monika\",\"clientSurname\":\"Bach\",\"power\":170,\"plate\":\"KKP90777\",\"deliveryDate\":\"2017-03-30T17:16:39.259Z\",\"deadline\":\"2017-05-30T17:16:39.260Z\",\"id\":1}"
     }
   }
-}
+} 
